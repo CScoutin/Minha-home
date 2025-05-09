@@ -1,0 +1,1 @@
+De certa forma foi fácil mas o .gitignore me enganou um pouco porque ele aparece localmente mas quando você da o push ele já não aparece
